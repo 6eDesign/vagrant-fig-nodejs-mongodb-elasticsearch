@@ -26,7 +26,7 @@ https://www.virtualbox.org/wiki/Downloads
 Clone the repo and vagrant up
 
 ```bash
-git clone https://github.com/kristofsajdak/vagrant-fig-nodejs-mongodb-elasticsearch
+git clone https://github.com/6eDesign/vagrant-fig-nodejs-mongodb-elasticsearch.git
 cd vagrant-fig-nodejs-mongodb-elasticsearch/provision
 vagrant up
 ```
