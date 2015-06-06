@@ -1,4 +1,4 @@
-FROM dockerfile/nodejs
+FROM nodejs
 
 RUN npm install -g forever
 RUN npm install -g node-inspector
